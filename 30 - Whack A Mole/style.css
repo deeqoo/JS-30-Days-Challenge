@@ -67,3 +67,18 @@ h1 {
 .hole.up .mole {
   top:0;
 }
+
+.myButton {
+  background-color:  #008CBA;
+  padding: 14px 40px;
+  font-size: 20px;
+  color:#eae9e9;
+  text-align: center;
+  /*display: inline-block;*/
+  border: 2px solid #008CBA;
+}
+
+.myButton:hover{
+  color: #008CBA;
+  background-color: #eae9e9;
+}
